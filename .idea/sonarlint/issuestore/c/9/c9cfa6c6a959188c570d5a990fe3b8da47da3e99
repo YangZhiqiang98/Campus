@@ -1,0 +1,40 @@
+
+K
+java:S3740­"/Provide the parametrized type for this generic.(˜™’õøÿÿÿÿ
+R
+java:S1144ì";Remove this unused private "selectShopContextBySid" method.(Õ¯¢Â
+K
+java:S3740¼"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ
+f
+java:S1192&"PDefine a constant instead of duplicating this literal "userInformation" 6 times.(×ü³»
+>
+java:S1148n"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+x
+java:S1488¿"\Immediately return this expression instead of assigning it to the temporary variable "list".(ã””âÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(‹º˜
+Z
+java:S3752†">Add a "method" parameter to this "@RequestMapping" annotation.(‡»³«ÿÿÿÿÿ
+?
+java:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+K
+java:S3740¼"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ
+>
+java:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(½•¸
+?
+java:S1148³"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+java:S3752M">Add a "method" parameter to this "@RequestMapping" annotation.(ÔÌ¯Š
+Z
+java:S3752«">Add a "method" parameter to this "@RequestMapping" annotation.(âÍæÇÿÿÿÿÿ
+Z
+java:S3752›">Add a "method" parameter to this "@RequestMapping" annotation.(–°ø×ûÿÿÿÿ
+f
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(©­Šúÿÿÿÿ
+T
+java:S3752$">Add a "method" parameter to this "@RequestMapping" annotation.(ÎœÂÑ
+Z
+java:S3752”">Add a "method" parameter to this "@RequestMapping" annotation.(è€•ÿÿÿÿÿ
+U
+java:S1144ç"9Remove this unused private "getShopContextCounts" method.(¦È®¯ùÿÿÿÿ

@@ -1,0 +1,25 @@
+
+g
+java:S1192."QDefine a constant instead of duplicating this literal "userInformation" 11 times.(×ü³»
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+?
+java:S1148–"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Z
+java:S3752¸">Add a "method" parameter to this "@RequestMapping" annotation.(Þ¦¥¢úÿÿÿÿ
+Y
+java:S3752L">Add a "method" parameter to this "@RequestMapping" annotation.(Ê€±¦ÿÿÿÿÿ
+W	java:S125Ð"<This block of commented-out lines of code should be removed.(Ô­‡õøÿÿÿÿ
+c
+java:S4488+"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(íÈÄûÿÿÿÿ
+>
+java:S1148l"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+U
+java:S3752œ">Add a "method" parameter to this "@RequestMapping" annotation.(ØÞ¸Þ
+Y
+java:S3752s">Add a "method" parameter to this "@RequestMapping" annotation.(¼’¼þÿÿÿÿ
+Z
+java:S3752Æ">Add a "method" parameter to this "@RequestMapping" annotation.(Æè’éùÿÿÿÿ
+U
+java:S3752¿">Add a "method" parameter to this "@RequestMapping" annotation.(ò¢Ç
+>
+java:S1148@"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

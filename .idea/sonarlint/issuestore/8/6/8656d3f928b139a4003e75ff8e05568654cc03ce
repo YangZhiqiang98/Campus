@@ -1,25 +1,25 @@
 
-U
-java:S3752œ">Add a "method" parameter to this "@RequestMapping" annotation.(ØŞ¸Ş
-W	java:S125Ğ"<This block of commented-out lines of code should be removed.(Ô­‡õøÿÿÿÿ
->
-java:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+g
+java:S1192."QDefine a constant instead of duplicating this literal "userInformation" 11 times.(×ü³»
+Z
+java:S3752¸">Add a "method" parameter to this "@RequestMapping" annotation.(Ş¦¥¢úÿÿÿÿ
 ?
 java:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
 U
 java:S3752¿">Add a "method" parameter to this "@RequestMapping" annotation.(ò¢Ç
-g
-java:S1192."QDefine a constant instead of duplicating this literal "userInformation" 11 times.(×ü³»
 Y
 java:S3752L">Add a "method" parameter to this "@RequestMapping" annotation.(Ê€±¦ÿÿÿÿÿ
-Y
-java:S3752s">Add a "method" parameter to this "@RequestMapping" annotation.(¼’¼şÿÿÿÿ
-Z
-java:S3752Æ">Add a "method" parameter to this "@RequestMapping" annotation.(Æè’éùÿÿÿÿ
-Z
-java:S3752¸">Add a "method" parameter to this "@RequestMapping" annotation.(Ş¦¥¢úÿÿÿÿ
-c
-java:S4488+"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(íÈÄûÿÿÿÿ
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(Ô­‡õøÿÿÿÿ
 W	java:S125Ò"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
 >
+java:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Y
+java:S3752s">Add a "method" parameter to this "@RequestMapping" annotation.(¼’¼şÿÿÿÿ
+c
+java:S4488+"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(íÈÄûÿÿÿÿ
+>
 java:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Z
+java:S3752Æ">Add a "method" parameter to this "@RequestMapping" annotation.(Æè’éùÿÿÿÿ
+U
+java:S3752œ">Add a "method" parameter to this "@RequestMapping" annotation.(ØŞ¸Ş

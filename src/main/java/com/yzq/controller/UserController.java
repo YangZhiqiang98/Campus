@@ -704,7 +704,8 @@ public class UserController {
         return "redirect:publish_product.do?error=please_enter_image";
       }
       String random;
-      String path = "D:/Java/projects/mySSM-master";
+     // String path = "D:/Java/projects/Myjava--master";
+      String path ="/usr/local/tomcat9/webapps/campus-1.0-SNAPSHOT";
       String save = "";
       random = "image" + File.separator + StringUtils.getInstance().getRandomChar() + System.currentTimeMillis() + ".jpg";
       log.info("random = " + random);

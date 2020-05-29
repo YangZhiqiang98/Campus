@@ -1,252 +1,252 @@
 
 F
-java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-h
-java:S4488¬"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Â‡…ú8ñ²êÛ¥.
-\
-java:S1144º"9Remove this unused private "selectOrderFormByUid" method.(şˆ•¤øÿÿÿÿ8ñ²êÛ¥.
-Z	java:S106_"9Replace this use of System.out or System.err by a logger.(ù²±öşÿÿÿÿ8ñ²êÛ¥.
-‡
-java:S1192Ñ"dDefine a constant instead of duplicating this literal "redirect:my_publish_product_page.do" 4 times.(¨‹íñüÿÿÿÿ8ñ²êÛ¥.
-^	java:S125‘"<This block of commented-out lines of code should be removed.(¨·¶–ûÿÿÿÿ8ñ²êÛ¥.
-
-java:S1192¸"\Define a constant instead of duplicating this literal "redirect:publish_product.do" 7 times.(ö¾¬Êøÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148Ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148¾"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-^	java:S125³"<This block of commented-out lines of code should be removed.(¨·¶–ûÿÿÿÿ8ñ²êÛ¥.
-E
-java:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-Y	java:S125Â"<This block of commented-out lines of code should be removed.(ÆÒƒà8ñ²êÛ¥.
-F
-java:S1148Ö"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-e
-java:S1192"GDefine a constant instead of duplicating this literal "counts" 5 times.(²î×È8ñ²êÛ¥.
-f
-java:S1192µ"HDefine a constant instead of duplicating this literal "message" 6 times.(¤¨ÊÊ8ñ²êÛ¥.
-j
-java:S4488O"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¿ıíûÿÿÿÿ8ñ²êÛ¥.
-e
-java:S1192{"HDefine a constant instead of duplicating this literal "success" 7 times.(ùØ8ñ²êÛ¥.
-i
-java:S1192Õ"FDefine a constant instead of duplicating this literal "price" 3 times.(©¾ïãøÿÿÿÿ8ñ²êÛ¥.
-\
-java:S3752œ">Add a "method" parameter to this "@RequestMapping" annotation.(¼¼Ï©8ñ²êÛ¥.
-\
-java:S3752™">Add a "method" parameter to this "@RequestMapping" annotation.(‹¦¼8ñ²êÛ¥.
-\
-java:S3752×">Add a "method" parameter to this "@RequestMapping" annotation.(Û§Ô±8ÔâíÛ¥.
-a
-java:S3752’	">Add a "method" parameter to this "@RequestMapping" annotation.(ŒÅÿ¨ÿÿÿÿÿ8ñ²êÛ¥.
-m
-java:S4488™"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(êõ¯©ùÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148ô
+java:S1148Ò
 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-h
-java:S1192d"KDefine a constant instead of duplicating this literal "redirect:/" 3 times.(äÔ¶½8ñ²êÛ¥.
-F
-java:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-p
-java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(‚¬«¨8ñ²êÛ¥.
-M
-java:S3740«"/Provide the parametrized type for this generic.(†ó•µ8ñ²êÛ¥.
-e
-java:S1192³"GDefine a constant instead of duplicating this literal "action" 3 times.(Åá»ã8ñ²êÛ¥.
-d
-java:S1075Ã"ARefactor your code to get this URI from a customizable parameter.(ë˜ë³úÿÿÿÿ8ñ²êÛ¥.
-;
-java:S2119 "Save and re-use this "Random".(¼İÅf8ñ²êÛ¥.
-Y	java:S125º"<This block of commented-out lines of code should be removed.(÷òµ”8ñ²êÛ¥.
-Y	java:S125ß"<This block of commented-out lines of code should be removed.(Ö¢çÃ8ñ²êÛ¥.
-N
-java:S1481Ï"+Remove this unused "result" local variable.(“ê¼µøÿÿÿÿ8ñ²êÛ¥.
-Y	java:S125â"<This block of commented-out lines of code should be removed.(Ö¢çÃ8ñ²êÛ¥.
-F
-java:S1148´"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148ş
-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-\
-java:S3752ê">Add a "method" parameter to this "@RequestMapping" annotation.(›šÎÏ8ñ²êÛ¥.
 \
 java:S3752‡">Add a "method" parameter to this "@RequestMapping" annotation.(×Â†á8ñ²êÛ¥.
-a
-java:S3752¯	">Add a "method" parameter to this "@RequestMapping" annotation.(’úüœıÿÿÿÿ8ñ²êÛ¥.
-^	java:S125Å"<This block of commented-out lines of code should be removed.(ó¦äïıÿÿÿÿ8ñ²êÛ¥.
-X	java:S125"<This block of commented-out lines of code should be removed.(®®²8ñ²êÛ¥.
-n	java:S117â	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÎøş8ñ²êÛ¥.
-[
-java:S3752Œ">Add a "method" parameter to this "@RequestMapping" annotation.(Õ‘†8ñ²êÛ¥.
+Y	java:S125â"<This block of commented-out lines of code should be removed.(Ö¢çÃ8ñ²êÛ¥.
+F
+java:S1148Ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+m
+java:S4488™"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(êõ¯©ùÿÿÿÿ8ñ²êÛ¥.
+p	java:S100Î	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·‘ğùÿÿÿÿ8ñ²êÛ¥.
+X	java:S125›"<This block of commented-out lines of code should be removed.(èß˜8ñ²êÛ¥.
 \
 java:S3752Õ">Add a "method" parameter to this "@RequestMapping" annotation.(™Û‰¶8ñ²êÛ¥.
 D
-java:S1659£"&Declare "quantity" on a separate line.(œìœÚ8ñ²êÛ¥.
-d
-java:S1144Æ"ARemove this unused private "selectGoodsOfOrderFormByOFid" method.(¬÷Óıÿÿÿÿ8ñ²êÛ¥.
+java:S2111Ñ"!Use "BigDecimal.valueOf" instead.(ØĞ±İøÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148ş
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+^	java:S125æ"<This block of commented-out lines of code should be removed.(øùŒÓøÿÿÿÿ8ñ²êÛ¥.
+^	java:S125"<This block of commented-out lines of code should be removed.(‰û‚•ùÿÿÿÿ8ñ²êÛ¥.
 \
-java:S3752œ">Add a "method" parameter to this "@RequestMapping" annotation.(éÌ8ñ²êÛ¥.
+java:S3752ê">Add a "method" parameter to this "@RequestMapping" annotation.(›šÎÏ8ñ²êÛ¥.
+N
+java:S1481Ï"+Remove this unused "result" local variable.(“ê¼µøÿÿÿÿ8ñ²êÛ¥.
+j
+java:S4488O"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¿ıíûÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148´"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+\
+java:S3752ç">Add a "method" parameter to this "@RequestMapping" annotation.(ú´ ß8ñ²êÛ¥.
+\
+java:S1144º"9Remove this unused private "selectOrderFormByUid" method.(şˆ•¤øÿÿÿÿ8ñ²êÛ¥.
+Y	java:S125Ú"<This block of commented-out lines of code should be removed.(Ö¢çÃ8ñ²êÛ¥.
+M
+java:S3740«"/Provide the parametrized type for this generic.(†ó•µ8ñ²êÛ¥.
+i
+java:S1192z"GDefine a constant instead of duplicating this literal "result" 8 times.(Â¡¤†øÿÿÿÿ8ñ²êÛ¥.
+^	java:S125"<This block of commented-out lines of code should be removed.(¨·¶–ûÿÿÿÿ8ñ²êÛ¥.
+d
+java:S1075Ã"ARefactor your code to get this URI from a customizable parameter.(ë˜ë³úÿÿÿÿ8ñ²êÛ¥.
+R
+java:S3740‹"/Provide the parametrized type for this generic.(ÊÕöşÿÿÿÿ8ñ²êÛ¥.
+E
+java:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+^	java:S125ğ"<This block of commented-out lines of code should be removed.(íâ…Úşÿÿÿÿ8ñ²êÛ¥.
+;
+java:S2119 "Save and re-use this "Random".(¼İÅf8ñ²êÛ¥.
+F
+java:S1148Ş
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+d
+java:S1192"FDefine a constant instead of duplicating this literal "error" 3 times.(•öâ¦8ñ²êÛ¥.
+\
+java:S3752»	">Add a "method" parameter to this "@RequestMapping" annotation.(ĞÆ´8ñ²êÛ¥.
+^	java:S125¸"<This block of commented-out lines of code should be removed.(ß˜òşÿÿÿÿ8ñ²êÛ¥.
+S
+java:S1481¢"0Remove this unused "userRelease" local variable.(†Š®üÿÿÿÿ8ñ²êÛ¥.
+Y	java:S125"<This block of commented-out lines of code should be removed.(ş‰8ñ²êÛ¥.
+U
+java:S1144°"7Remove this unused private "getOrderFormCounts" method.(ÊÌ«»8ñ²êÛ¥.
+D
+java:S1659£"&Declare "quantity" on a separate line.(œìœÚ8ñ²êÛ¥.
+Z
+java:S1144¥"7Remove this unused private "selectShopCarByUid" method.(É¯¿ƒüÿÿÿÿ8ñ²êÛ¥.
+^	java:S125¸"<This block of commented-out lines of code should be removed.(›‡­üÿÿÿÿ8ñ²êÛ¥.
+p
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(‚¬«¨8ñ²êÛ¥.
+a
+java:S3752è">Add a "method" parameter to this "@RequestMapping" annotation.(àÊ·Ûûÿÿÿÿ8ñ²êÛ¥.
+Y	java:S125Ã"<This block of commented-out lines of code should be removed.(§«Ï‹8ñ²êÛ¥.
+‡
+java:S1192Ñ"dDefine a constant instead of duplicating this literal "redirect:my_publish_product_page.do" 4 times.(¨‹íñüÿÿÿÿ8ñ²êÛ¥.
+f
+java:S1192µ"HDefine a constant instead of duplicating this literal "message" 6 times.(¤¨ÊÊ8ñ²êÛ¥.
+u	java:S127§"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰îÎú8ñ²êÛ¥.
+a
+java:S3752‰">Add a "method" parameter to this "@RequestMapping" annotation.(éõ•Äúÿÿÿÿ8ñ²êÛ¥.
+s
+java:S1192]"QDefine a constant instead of duplicating this literal "userInformation" 50 times.(­ĞÀ¾øÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148Ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+?
+java:S1659£"!Declare "uid" on a separate line.(œìœÚ8ñ²êÛ¥.
+F
+java:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+[
+java:S3752Œ">Add a "method" parameter to this "@RequestMapping" annotation.(Õ‘†8ñ²êÛ¥.
+i
+java:S1192Õ"FDefine a constant instead of duplicating this literal "price" 3 times.(©¾ïãøÿÿÿÿ8ñ²êÛ¥.
+U
+java:S1144ä
+"7Remove this unused private "selectReleaseByUid" method.(Ïùî½8ñ²êÛ¥.
+\
+java:S1144Ò"9Remove this unused private "selectUserStateByUid" method.(´Ò¯Íùÿÿÿÿ8ñ²êÛ¥.
+\
+java:S3752™">Add a "method" parameter to this "@RequestMapping" annotation.(‹¦¼8ñ²êÛ¥.
+s
+java:S1192’"UDefine a constant instead of duplicating this literal "publishUserWantToken" 4 times.(‡ÜŒœ8ñ²êÛ¥.
+h
+java:S4488¬"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Â‡…ú8ñ²êÛ¥.
+a
+java:S3752£	">Add a "method" parameter to this "@RequestMapping" annotation.(œáª“ûÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
 U
 java:S1135ï"2Complete the task associated to this TODO comment.(Ã©Ëúÿÿÿÿ8ñ²êÛ¥.
-^	java:S125ğ"<This block of commented-out lines of code should be removed.(íâ…Úşÿÿÿÿ8ñ²êÛ¥.
+Y	java:S125ğ"<This block of commented-out lines of code should be removed.(£Ã‰÷8ñ²êÛ¥.
+[
+java:S1144ğ
+"8Remove this unused private "getBoughtShopCounts" method.(ÇÂôŠıÿÿÿÿ8ñ²êÛ¥.
+e
+java:S1192³"GDefine a constant instead of duplicating this literal "action" 3 times.(Åá»ã8ñ²êÛ¥.
+l
+java:S4488h"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•–´İıÿÿÿÿ8ñ²êÛ¥.
+^	java:S125™"<This block of commented-out lines of code should be removed.(Ã¾‚­ıÿÿÿÿ8ñ²êÛ¥.
+[
+java:S1144Â
+"8Remove this unused private "getCollectionCounts" method.(ØîÌ±ùÿÿÿÿ8ñ²êÛ¥.
+\
+java:S3752È">Add a "method" parameter to this "@RequestMapping" annotation.(¹Â¨¬8ñ²êÛ¥.
+\
+java:S3752œ">Add a "method" parameter to this "@RequestMapping" annotation.(éÌ8ñ²êÛ¥.
+a
+java:S3752¯	">Add a "method" parameter to this "@RequestMapping" annotation.(’úüœıÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148Ö"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+Y	java:S125û	"<This block of commented-out lines of code should be removed.(°à‹¸8ñ²êÛ¥.
+F
+java:S1148«"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+w
+java:S1192"TDefine a constant instead of duplicating this literal "redirect:/login.do" 18 times.(Åã‡ıûÿÿÿÿ8ñ²êÛ¥.
+a
+java:S3752²">Add a "method" parameter to this "@RequestMapping" annotation.(«û¹üÿÿÿÿ8ñ²êÛ¥.
+a
+java:S3752’	">Add a "method" parameter to this "@RequestMapping" annotation.(ŒÅÿ¨ÿÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+Y	java:S125¿"<This block of commented-out lines of code should be removed.(‡Ì’§8ñ²êÛ¥.
+\
+java:S3752Ş">Add a "method" parameter to this "@RequestMapping" annotation.(Åï˜æ8ñ²êÛ¥.
+d
+java:S1144Æ"ARemove this unused private "selectGoodsOfOrderFormByOFid" method.(¬÷Óıÿÿÿÿ8ñ²êÛ¥.
+
+java:S1192¸"\Define a constant instead of duplicating this literal "redirect:publish_product.do" 7 times.(ö¾¬Êøÿÿÿÿ8ñ²êÛ¥.
+X
+java:S1144Î
+":Remove this unused private "selectContectionByUid" method.(úó•Ô8ñ²êÛ¥.
+^	java:S125³"<This block of commented-out lines of code should be removed.(¨·¶–ûÿÿÿÿ8ñ²êÛ¥.
+\
+java:S3752©">Add a "method" parameter to this "@RequestMapping" annotation.(ö‡èı8ñ²êÛ¥.
+u
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(­™–ƒøÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148¾"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+N
+java:S1481å"+Remove this unused "counts" local variable.(Ù§ä•ùÿÿÿÿ8ñ²êÛ¥.
+^	java:S125Å"<This block of commented-out lines of code should be removed.(ó¦äïıÿÿÿÿ8ñ²êÛ¥.
+e
+java:S1192{"HDefine a constant instead of duplicating this literal "success" 7 times.(ùØ8ñ²êÛ¥.
+h
+java:S1192d"KDefine a constant instead of duplicating this literal "redirect:/" 3 times.(äÔ¶½8ñ²êÛ¥.
+\
+java:S3752ÿ">Add a "method" parameter to this "@RequestMapping" annotation.(èãõë8ñ²êÛ¥.
+X	java:S125¡"<This block of commented-out lines of code should be removed.(íÓğ(8ñ²êÛ¥.
+|
+java:S1192µ"^Define a constant instead of duplicating this literal "è¯·è¾“å…¥æ­£ç¡®çš„æ ¼å¼!!!!!" 5 times.(¤¨ÊÊ8ñ²êÛ¥.
+Y	java:S125Ï"<This block of commented-out lines of code should be removed.(°Ô÷ù8ñ²êÛ¥.
+i
+java:S1192T"GDefine a constant instead of duplicating this literal "token" 15 times.( ƒƒ³úÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148“"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+Y	java:S125À"<This block of commented-out lines of code should be removed.(¼×¡è8ñ²êÛ¥.
+F
+java:S1148Å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+\
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(‡âš‚8ñ²êÛ¥.
 a
 java:S3752¸">Add a "method" parameter to this "@RequestMapping" annotation.(„ÊÖıÿÿÿÿ8ñ²êÛ¥.
-p	java:S100Î	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·‘ğùÿÿÿÿ8ñ²êÛ¥.
-X	java:S125›"<This block of commented-out lines of code should be removed.(èß˜8ñ²êÛ¥.
+e
+java:S1192"GDefine a constant instead of duplicating this literal "counts" 5 times.(²î×È8ñ²êÛ¥.
+a
+java:S3752ş">Add a "method" parameter to this "@RequestMapping" annotation.(Ê±çúÿÿÿÿ8ñ²êÛ¥.
+\
+java:S3752œ">Add a "method" parameter to this "@RequestMapping" annotation.(¼¼Ï©8ñ²êÛ¥.
+F
+java:S1148à"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148Ç
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+F
+java:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+^	java:S125½"<This block of commented-out lines of code should be removed.(ß˜òşÿÿÿÿ8ñ²êÛ¥.
+a
+java:S3752·">Add a "method" parameter to this "@RequestMapping" annotation.( Ù™±ıÿÿÿÿ8ñ²êÛ¥.
+X	java:S125³"<This block of commented-out lines of code should be removed.(ÓÓM8ñ²êÛ¥.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+s
+java:S1192¯"PDefine a constant instead of duplicating this literal "shopInformation" 3 times.(Ú©×ôüÿÿÿÿ8ñ²êÛ¥.
+n	java:S117â	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÎøş8ñ²êÛ¥.
 F
 java:S1148è
 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
 F
-java:S1148à"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-w
-java:S1192"TDefine a constant instead of duplicating this literal "redirect:/login.do" 18 times.(Åã‡ıûÿÿÿÿ8ñ²êÛ¥.
-u	java:S127§"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰îÎú8ñ²êÛ¥.
-Y	java:S125Ï"<This block of commented-out lines of code should be removed.(°Ô÷ù8ñ²êÛ¥.
-s
-java:S1192¯"PDefine a constant instead of duplicating this literal "shopInformation" 3 times.(Ú©×ôüÿÿÿÿ8ñ²êÛ¥.
-^	java:S125ğ"<This block of commented-out lines of code should be removed.(Ôñ»Ûúÿÿÿÿ8ñ²êÛ¥.
-Y	java:S125Ã"<This block of commented-out lines of code should be removed.(§«Ï‹8ñ²êÛ¥.
-D
-java:S2111Ñ"!Use "BigDecimal.valueOf" instead.(ØĞ±İøÿÿÿÿ8ñ²êÛ¥.
-^	java:S125"<This block of commented-out lines of code should be removed.(‰û‚•ùÿÿÿÿ8ñ²êÛ¥.
-R
-java:S3740‹"/Provide the parametrized type for this generic.(ÊÕöşÿÿÿÿ8ñ²êÛ¥.
-i
-java:S1192T"GDefine a constant instead of duplicating this literal "token" 15 times.( ƒƒ³úÿÿÿÿ8ñ²êÛ¥.
+java:S1148Ê"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
 m
 java:S4488‡"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(şûˆÂıÿÿÿÿ8ñ²êÛ¥.
-^	java:S125œ"<This block of commented-out lines of code should be removed.(ºÈšÿÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148Ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-`
-java:S3752Z">Add a "method" parameter to this "@RequestMapping" annotation.(ÆôÓıÿÿÿÿ8ñ²êÛ¥.
-|
-java:S1192µ"^Define a constant instead of duplicating this literal "è¯·è¾“å…¥æ­£ç¡®çš„æ ¼å¼!!!!!" 5 times.(¤¨ÊÊ8ñ²êÛ¥.
-F
-java:S1148ğ	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-R
-java:S3740ê"/Provide the parametrized type for this generic.(Ş¾ßƒøÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148Ê"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-d
-java:S1192"FDefine a constant instead of duplicating this literal "error" 3 times.(•öâ¦8ñ²êÛ¥.
+U	java:S106Â"9Replace this use of System.out or System.err by a logger.(ùø¼8ñ²êÛ¥.
 m
 java:S4488Ú	"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ö¸³·ıÿÿÿÿ8ñ²êÛ¥.
-?
-java:S1659£"!Declare "uid" on a separate line.(œìœÚ8ñ²êÛ¥.
-X	java:S125³"<This block of commented-out lines of code should be removed.(ÓÓM8ñ²êÛ¥.
-a
-java:S3752·">Add a "method" parameter to this "@RequestMapping" annotation.( Ù™±ıÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148«"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-S
-java:S1481¢"0Remove this unused "userRelease" local variable.(†Š®üÿÿÿÿ8ñ²êÛ¥.
-\
-java:S3752ÿ">Add a "method" parameter to this "@RequestMapping" annotation.(èãõë8ñ²êÛ¥.
-M
-java:S3740®"/Provide the parametrized type for this generic.(‚¬«¨8ñ²êÛ¥.
-U	java:S106Â"9Replace this use of System.out or System.err by a logger.(ùø¼8ñ²êÛ¥.
-Y	java:S125Ú"<This block of commented-out lines of code should be removed.(Ö¢çÃ8ñ²êÛ¥.
-\
-java:S3752©">Add a "method" parameter to this "@RequestMapping" annotation.(ö‡èı8ñ²êÛ¥.
-Y	java:S125À"<This block of commented-out lines of code should be removed.(¼×¡è8ñ²êÛ¥.
-i
-java:S1192z"GDefine a constant instead of duplicating this literal "result" 8 times.(Â¡¤†øÿÿÿÿ8ñ²êÛ¥.
-[
-java:S1144Â
-"8Remove this unused private "getCollectionCounts" method.(ØîÌ±ùÿÿÿÿ8ñ²êÛ¥.
 F
 java:S1148Ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-U
-java:S1144ä
-"7Remove this unused private "selectReleaseByUid" method.(Ïùî½8ñ²êÛ¥.
-D
-java:S2111´"!Use "BigDecimal.valueOf" instead.(ôÚò–úÿÿÿÿ8ñ²êÛ¥.
-\
-java:S3752ç">Add a "method" parameter to this "@RequestMapping" annotation.(ú´ ß8ñ²êÛ¥.
-Y	java:S125"<This block of commented-out lines of code should be removed.(ş‰8ñ²êÛ¥.
-^	java:S125æ"<This block of commented-out lines of code should be removed.(øùŒÓøÿÿÿÿ8ñ²êÛ¥.
-u
-java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(­™–ƒøÿÿÿÿ8ñ²êÛ¥.
-a
-java:S3752£	">Add a "method" parameter to this "@RequestMapping" annotation.(œáª“ûÿÿÿÿ8ñ²êÛ¥.
-^	java:S125"<This block of commented-out lines of code should be removed.(¨·¶–ûÿÿÿÿ8ñ²êÛ¥.
-\
-java:S3752È">Add a "method" parameter to this "@RequestMapping" annotation.(¹Â¨¬8ñ²êÛ¥.
-^	java:S125™"<This block of commented-out lines of code should be removed.(Ã¾‚­ıÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148Ş
-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-a
-java:S3752è">Add a "method" parameter to this "@RequestMapping" annotation.(àÊ·Ûûÿÿÿÿ8ñ²êÛ¥.
-^	java:S125¸"<This block of commented-out lines of code should be removed.(ß˜òşÿÿÿÿ8ñ²êÛ¥.
-^	java:S125¸"<This block of commented-out lines of code should be removed.(›‡­üÿÿÿÿ8ñ²êÛ¥.
-Z
-java:S1144¥"7Remove this unused private "selectShopCarByUid" method.(É¯¿ƒüÿÿÿÿ8ñ²êÛ¥.
 o
 java:S1192 "LDefine a constant instead of duplicating this literal "goodsToken" 12 times.(Ãõ…•ûÿÿÿÿ8ñ²êÛ¥.
+Y	java:S125ß"<This block of commented-out lines of code should be removed.(Ö¢çÃ8ñ²êÛ¥.
+X	java:S125"<This block of commented-out lines of code should be removed.(®®²8ñ²êÛ¥.
+`
+java:S3752Z">Add a "method" parameter to this "@RequestMapping" annotation.(ÆôÓıÿÿÿÿ8ñ²êÛ¥.
+M
+java:S3740®"/Provide the parametrized type for this generic.(‚¬«¨8ñ²êÛ¥.
+^	java:S125œ"<This block of commented-out lines of code should be removed.(ºÈšÿÿÿÿÿ8ñ²êÛ¥.
+^	java:S125‘"<This block of commented-out lines of code should be removed.(¨·¶–ûÿÿÿÿ8ñ²êÛ¥.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(ù²±öşÿÿÿÿ8ñ²êÛ¥.
 \
 java:S3752¬">Add a "method" parameter to this "@RequestMapping" annotation.(ª½¨µ8ñ²êÛ¥.
-s
-java:S1192]"QDefine a constant instead of duplicating this literal "userInformation" 50 times.(­ĞÀ¾øÿÿÿÿ8ñ²êÛ¥.
-a
-java:S3752ş">Add a "method" parameter to this "@RequestMapping" annotation.(Ê±çúÿÿÿÿ8ñ²êÛ¥.
 F
-java:S1148Ç
+java:S1148ô
 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-\
-java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(‡âš‚8ñ²êÛ¥.
-Y	java:S125ğ"<This block of commented-out lines of code should be removed.(£Ã‰÷8ñ²êÛ¥.
-l
-java:S4488h"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•–´İıÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148Ò
-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-^	java:S125½"<This block of commented-out lines of code should be removed.(ß˜òşÿÿÿÿ8ñ²êÛ¥.
+D
+java:S2111´"!Use "BigDecimal.valueOf" instead.(ôÚò–úÿÿÿÿ8ñ²êÛ¥.
+Y	java:S125º"<This block of commented-out lines of code should be removed.(÷òµ”8ñ²êÛ¥.
+^	java:S125ğ"<This block of commented-out lines of code should be removed.(Ôñ»Ûúÿÿÿÿ8ñ²êÛ¥.
 ]
 java:S1144ú
 ":Remove this unused private "selectBoughtShopByUid" method.(Î·ªéúÿÿÿÿ8ñ²êÛ¥.
-s
-java:S1192’"UDefine a constant instead of duplicating this literal "publishUserWantToken" 4 times.(‡ÜŒœ8ñ²êÛ¥.
+\
+java:S3752×">Add a "method" parameter to this "@RequestMapping" annotation.(Û§Ô±8ÔâíÛ¥.
 \
 java:S3752Í	">Add a "method" parameter to this "@RequestMapping" annotation.(ü‹8ñ²êÛ¥.
-Y	java:S125¿"<This block of commented-out lines of code should be removed.(‡Ì’§8ñ²êÛ¥.
-\
-java:S1144Ò"9Remove this unused private "selectUserStateByUid" method.(´Ò¯Íùÿÿÿÿ8ñ²êÛ¥.
+R
+java:S3740ê"/Provide the parametrized type for this generic.(Ş¾ßƒøÿÿÿÿ8ñ²êÛ¥.
 F
-java:S1148“"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
-X
-java:S1144Î
-":Remove this unused private "selectContectionByUid" method.(úó•Ô8ñ²êÛ¥.
+java:S1148ğ	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.
+Y	java:S125Â"<This block of commented-out lines of code should be removed.(ÆÒƒà8ñ²êÛ¥.
 a
 java:S3752±">Add a "method" parameter to this "@RequestMapping" annotation.(±ƒ‰µşÿÿÿÿ8ñ²êÛ¥.
-Y	java:S125û	"<This block of commented-out lines of code should be removed.(°à‹¸8ñ²êÛ¥.
-\
-java:S3752»	">Add a "method" parameter to this "@RequestMapping" annotation.(ĞÆ´8ñ²êÛ¥.
-a
-java:S3752‰">Add a "method" parameter to this "@RequestMapping" annotation.(éõ•Äúÿÿÿÿ8ñ²êÛ¥.
-X	java:S125¡"<This block of commented-out lines of code should be removed.(íÓğ(8ñ²êÛ¥.
-N
-java:S1481å"+Remove this unused "counts" local variable.(Ù§ä•ùÿÿÿÿ8ñ²êÛ¥.
-\
-java:S3752Ş">Add a "method" parameter to this "@RequestMapping" annotation.(Åï˜æ8ñ²êÛ¥.
-[
-java:S1144ğ
-"8Remove this unused private "getBoughtShopCounts" method.(ÇÂôŠıÿÿÿÿ8ñ²êÛ¥.
-U
-java:S1144°"7Remove this unused private "getOrderFormCounts" method.(ÊÌ«»8ñ²êÛ¥.
-a
-java:S3752²">Add a "method" parameter to this "@RequestMapping" annotation.(«û¹üÿÿÿÿ8ñ²êÛ¥.
-F
-java:S1148Å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñ²êÛ¥.

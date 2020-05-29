@@ -102,7 +102,7 @@ public class UserController {
 
   //用户注册,拥有插入数据
   @RequestMapping(value = "/registered.do", method = RequestMethod.POST)
-  public String registered(Model model,
+  public String registered(Model model,HttpServletRequest request,
                            @RequestParam String name, @RequestParam String phone, @RequestParam String password) {
     UserInformation userInformation = new UserInformation();
     userInformation.setUsername(name);
@@ -122,6 +122,7 @@ public class UserController {
         model.addAttribute("result", "fail");
         return "success";
       }
+      request.getSession().setAttribute("uid", uid);
       model.addAttribute("result", "success");
       return "success";
     }
